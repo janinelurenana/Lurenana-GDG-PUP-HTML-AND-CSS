@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Christelle Janine M. Lureñana</title>
+</head>
+<body>
+    <h1>Christelle Janine M. Lureñana | BSIT 1-5</h1>
+    <hr>
+    
+    <h2>About Me</h2>
+    <p>Hi, I'm Janine! I am currently a BSIT student passionate about technology and web development.
+    I am 17 years old and a freshman at the Polytechnic University of the Philippines. </p>
+    
+    <h2>Hobbies</h2>
+    <p>In my free time, I enjoy coding, gaming, chess, drawing, reading and... I have too many
+    hobbies, I guess? But yeah, coding and chess challenges my critical thinking skills, 
+    while gaming and reading are my escape. I love reading about crime fiction, true crime, 
+    and criminal psychology - I just love diving into the complexities of the human mind.</p>
+    
+    <h2>Goals</h2>
+    <p>My goal is to become a skilled software developer and ethical hacker. I am always eager to expand my knowledge in these fields.</p>
+    
+    <h2>Contact</h2>
+    <p>Let's connect on <a href="https://www.instagram.com/janinelurenana/#e">ig</a>!</p>
+
+</body>
+</html>
