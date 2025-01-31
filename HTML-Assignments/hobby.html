@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable Image Link</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; 
+            margin: 0;
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        
+        .container {
+            max-width: 600px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+
+        img {
+            width: 400px;
+            height: auto;
+            border: 2px solid #000;
+            border-radius: 10px;
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        img:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>My Hobby: Drawing</h1>
+        <p>Click the image below to learn the fundamentals of drawing:</p>
+        <a href="https://www.proko.com/course/drawing-basics" target="_blank">
+            <img src="https://img-resizer.proko.com/resize/course/cover_image/800x450x1/eyJwYXRoIjoicHJvZHVjdHMvaW1hZ2VzL2RyYXdpbmctYmFzaWNzLWRyYXdpbmctYmFzaWNzLWNvdXJzZS10aHVtYm5haWwtNGstdjIuanBnIiwibmFtZSI6ImRyYXdpbmctYmFzaWNzLWRyYXdpbmctYmFzaWNzLWNvdXJzZS10aHVtYm5haWwtNGstdjIiLCJtaW1lIjoiaW1hZ2UvanBlZyIsIndpZHRoIjozODQwLCJoZWlnaHQiOjIxNjAsImNvbCI6ImNvdXJzZS9jb3Zlcl9pbWFnZSJ9--92c4a2156b543537b4ed4d9766797bf35290cc57" 
+                 alt="Drawing Basics">
+        </a>
+    </div>
+
+</body>
+</html>
